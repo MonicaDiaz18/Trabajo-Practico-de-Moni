@@ -1,0 +1,49 @@
+body{
+	background-image: url("fondo1.jpg");
+	background-position: top;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	font-size: 16px;
+	margin: 50px;
+	
+}
+h3{
+	font-size: 1.5em;
+	font-family: 'Calligraffitti', cursive;
+}
+
+h1{
+font-family: 'Covered By Your Grace', cursive;
+	}
+
+.thumbnail{
+background-image: url("fondo2.jpg");
+
+}
+#well{
+	font-family: 'Indie Flower', cursive;
+	background: pink;
+}
+#yo{
+	background-color: pink;
+
+}
+#pasa{
+	background-color: pink;
+
+}
+#no{
+	background-color: lightskyblue;
+}
+#mu{
+	background-color: lightskyblue;
+
+}
+#ma{
+	background-color: pink;
+
+}
+#ta{
+	background-color: lightskyblue;
+	
+}
